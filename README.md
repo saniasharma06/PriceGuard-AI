@@ -25,6 +25,7 @@ Matplotlib
 Seaborn
 Joblib
 # Project Structure
+'''
 PriceGuard-AI/
 ├── README.md
 ├── app.py
@@ -38,6 +39,7 @@ PriceGuard-AI/
     ├── data_processing.py
     ├── models.py
     └── utils.py
+'''
 # How to Run
 pip install -r requirements.txt
 streamlit run app.py
